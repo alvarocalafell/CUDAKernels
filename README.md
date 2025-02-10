@@ -13,15 +13,16 @@ A 100-day challenge to learn CUDA kernel programming, focusing on optimizing LLM
 **Goal**: Write a CUDA kernel daily, compare performance against CPU/naive implementations, and document learnings.  
 
 ## 📂 Repository Structure
+```text
 CUDAKernels/
 ├── Day01_VectorAdd/
-│ ├── vector_add.cu # CUDA kernel code
-│ ├── README.md # Explanation + results
-│ └── results.png # Performance graphs (optional)
+│   ├── vector_add.cu       # CUDA kernel code
+│   ├── README.md           # Explanation + results
+│   └── results.png         # Performance graphs (optional)
 ├── Day02_MatrixTranspose/
-│ └── ...
+│   └── ...
 └── ...
-
+```
 
 ## 🚀 Daily Tasks
 1. **Code**: Implement a kernel in Google Colab (`.cu` file).
