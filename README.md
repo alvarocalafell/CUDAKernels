@@ -48,7 +48,7 @@ CUDAKernels/
 | Day | Topic                                  | Chapter | Key Comparison                          | Status |
 |-----|----------------------------------------|---------|-----------------------------------------|--------|
 | 1   | Vector Addition                        | 2       | CPU (NumPy) vs GPU                      | ✅     |
-| 2   | Matrix Transpose (Coalesced Access)    | 3       | Coalesced vs non-coalesced              | 🔄     |
+| 2   | Matrix Transpose (Coalesced Access)    | 3       | Coalesced vs non-coalesced              | ✅     |
 | 3   | Image Blur (Stencil Operation)         | 3       | Global vs shared memory                 | 🔄     |
 | 4   | Matrix Multiplication (Naive)          | 3       | CUDA vs NumPy                           | 🔄     |
 | 5   | Tiled Matrix Multiplication            | 5       | Naive vs tiled FLOPS                    | 🔄     |
